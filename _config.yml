@@ -1,7 +1,7 @@
 
 theme: jekyll-theme-tactile
 title: Twitter - public treatment of American politicians
-description: And this is the textual description of your website 
+description: New description
 menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'this a the 2nd page', 'pagename': 'page1'},
