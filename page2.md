@@ -9,6 +9,6 @@
  
 
 # Which were the most repeated hashtags over those 2 weeks?
-![network map]({{ site.url }}/china-environment/assets/images/Pollution Beijing.jpg)
+![network map]({{ site.url }}/twitter_usa_politicians/assets/images/hn-usrep26876-7218top150-htgs-entities-user-mentions-chi2cooc-99999-ot19-23-9999-loufalse.pdf)
 
 >relate usernames with hashtag for the day based on what happened - approximate knowing we got data from 14-28 oct
