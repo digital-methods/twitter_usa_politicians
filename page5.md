@@ -1,3 +1,2 @@
 > Topic Modelling
-
-https://documents.cortext.net/bb86/bb86eed89596509e586e38ab5af4305b/52615/vislda.html#topic=1&lambda=0.59&term=
+<iframe src="https://documents.cortext.net/bb86/bb86eed89596509e586e38ab5af4305b/52615/vislda.html#topic=1&lambda=0.59&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe> 
