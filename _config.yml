@@ -4,11 +4,10 @@ title: Twitter - public treatment of American politicians
 description: New description
 menu: [
 {'name': 'Overview', 'pagename': 'index'},
-{'name': 'Framework', 'pagename': 'page1'},
+{'name': 'Data and Methodology', 'pagename': 'page1'},
 {'name': 'Demographics', 'pagename': 'page2'},
 {'name': 'Network Analysis', 'pagename': 'page3'},
 {'name': 'Contingency Matrix', 'pagename': 'page4'},
 {'name': 'Topic Modeling', 'pagename': 'page5'},
 {'name': 'Conclusion', 'pagename': 'page6'},
-{'name': 'Sources and Methodology', 'pagename': 'page7'},
 ]
