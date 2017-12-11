@@ -1,5 +1,3 @@
-# Twitter: public treatment of American politicians 
-
 # Overview
 > Our project assesses public treatment of American politicians in social media (twitter). More specifically, we will focus on the Democrats within the US House of Representatives. Nowadays, there is not any single politician without a twitter account and most citizens see twitter as the best and easiest way to reach them. Therefore, our main objective was to assess whether policitians received different treatment depending on their race, sexual orientation, age, or gender.   
 
