@@ -12,28 +12,9 @@
 >We were in need of a comparable sample of people that are viral enough on twitter to get enough data. We decided to work on the US-American House of representatives, because it has an adequate size of 435 representatives. However, we noticed, that  the representatives of the Republican party were in the vast majority old, white, straight men. Therefore decided to only work on the representatives from the democratic party, because they are more diverse. 
 
 
-###  videos
+> ## Trump and his use of twitter 
 
-Embedding Youtube content:
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0-ToRJV0zWA" frameborder="0" allowfullscreen></iframe>
-
-### texts
-
-Adding a pdf:
-
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
-
-Highlight an excerpt as a block:
-```
-Le vent d'hiver souffle, et la nuit est sombre, 
-Des gémissements sortent des tilleuls ; 
-```
-create a citation withing the text:
-
-> Les squelettes blancs vont à travers l'ombre
-
-<title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Factory.pdf"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VyLIJNHv92U" frameborder="0" allowfullscreen></iframe>
 
 
 
