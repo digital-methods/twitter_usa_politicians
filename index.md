@@ -13,8 +13,5 @@
 
 
 > ## Trump and his use of twitter 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VyLIJNHv92U" frameborder="0" allowfullscreen></iframe>
-
-
-
+> ### 6 politicians Trump targeted on twitter, The Washington Post (2017)
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=VyLIJNHv92U" frameborder="0" gesture="media" allowfullscreen></iframe>
