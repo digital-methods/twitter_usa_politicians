@@ -1,4 +1,4 @@
-# Which representatives accounted for the most mentioned in twitter?
+# Which representatives accounted for the most mentions in twitter?
   
  ![network map]({{ site.url }}/demo_website/assets/images/Capture.png)  
 
