@@ -8,5 +8,7 @@
 <iframe src="https://documents.cortext.net/a112/a11239f5a529652d164d5d81f64e049d/48229/temporal%20evolution/basic_statistics_entities_hashtags_20ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
  
 
-> what happened - peaks - relate events with hashtag for the day - approximate knowing we got data from 14-28 oct
- Screen Shot 2017-12-11 at 14.34.37.png
+# Which were the most repeated hashtags over those 2 weeks?
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.htmlfile=https://assets.cortext.net/docs/e4737e695df6b02c83cc90d96f9603dd" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
+
+>relate usernames with hashtag for the day based on what happened - approximate knowing we got data from 14-28 oct
