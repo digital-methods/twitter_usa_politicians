@@ -9,5 +9,6 @@ menu: [
 {'name': 'Network Analysis', 'pagename': 'page3'},
 {'name': 'Contingency Matrix', 'pagename': 'page4'},
 {'name': 'Topic Modeling', 'pagename': 'page5'},
-{'name': 'Sources and Methodology', 'pagename': 'page6'},
+{'name': 'Conclusion', 'pagename': 'page6'},
+{'name': 'Sources and Methodology', 'pagename': 'page7'},
 ]
