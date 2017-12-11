@@ -5,4 +5,4 @@
 
 # Which were the most repeated hashtags over those 2 weeks?
 
- ![network map]({{ site.url }}/demo_website/assets/images/Capture.png)  
+ ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-11 at 14.29.38.png)  
