@@ -4,9 +4,20 @@ The contingency matrix script proposes to visualize the joint distribution of th
 > ## Contingency Matrix - by gender 
 <iframe src="https://documents.cortext.net/9c84/9c84fef26dc30f981a40900635a7b494/52995/contingency_matrix-usrep2-logTrue-ISItermsgender-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
 
-The contingency matrix shows the degree of correlation between the pairs. The red cells, which show the most correlation as we see in this graph is air pollution and air quality in the South China Morning Post. But if we look at air quality and air pollution in China daily, the correlation is dark blue, which means that there is little to no correlation between this term/topic and this newspaper source. Considering that it is the main source of news outlet in China, it is quite skeptical that there is no mention of air pollution or air quality. The other news sources like South China People’s Daily, also has little to no mention of air quality and air pollution, while Shanghai Daily has a higher correlation but not too high. Finally, Global Times has a higher correlation (more orange).
-
+The contingency matrix shows the degree of correlation between the pairs. The red cells, which show the most correlation as we see in this graph is XXXX
 
 > ## Contingency Matrix - by sexual orientation 
+<iframe src="https://documents.cortext.net/930d/930d443be49463b3061eb739e11fd907/53394/contingency_matrix-usrep2-logFalse-ISItermssexuality_big_database-sentpolarity_full_text-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
+
+XXXX Comment the matrix
+
 > ## Contingency Matrix - by ethnicity 
+<iframe src="https://documents.cortext.net/fbca/fbcaeded6ac5e4423d90eb1d271f844e/53453/contingency_matrix-usrep2-logFalse-ISItermsethnicity_bigdatabase-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
+
+XXXX Comment the matrix
+
 > ## Contingency Matrix - by age 
+<iframe src="https://documents.cortext.net/1c76/1c76c1ce2336ad26ca23a4757219cfa9/53436/contingency_matrix-usrep2-logFalse-ISItermsage_bigdatabase-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
+
+XXXX Comment the matrix
+
