@@ -1,6 +1,2 @@
 # PAGE III
-
-Also possible to embed iframes from Google sheet for instance (see this [page](https://www.datavizforall.org/embed/iframe-github/) for a full guide)
-
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>
+<iframe src="https://documents.cortext.net/2c39/2c39d54acc64899611925db8838536bb/53303/maps/hn-usrep26876_7218top150-ISItermsinsultsintweets-ISItermsgender-chi2cooc-99999-oT0.09-9999-louFalse.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
