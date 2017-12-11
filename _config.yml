@@ -3,8 +3,11 @@ theme: jekyll-theme-tactile
 title: Twitter - public treatment of American politicians
 description: New description
 menu: [
-{'name': 'Home', 'pagename': 'index'},
-{'name': 'this a the 2nd page', 'pagename': 'page1'},
-{'name': 'Go there', 'pagename': 'page2'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'Overview', 'pagename': 'index'},
+{'name': 'Framework', 'pagename': 'page1'},
+{'name': 'Demographics', 'pagename': 'page2'},
+{'name': 'Network Analysis', 'pagename': 'page3'},
+{'name': 'Contingency Matrix', 'pagename': 'page4'},
+{'name': 'Topic Modeling', 'pagename': 'page5'},
+{'name': 'Sources and Methodology', 'pagename': 'page6'},
 ]
