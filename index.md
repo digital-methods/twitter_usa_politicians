@@ -1,3 +1,5 @@
+<title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Twitter.jpg"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
+
 # Overview
 > Our project assesses public treatment of American politicians in social media (twitter). More specifically, we will focus on the Democrats within the US House of Representatives. Nowadays, there is not any single politician without a twitter account and most citizens see twitter as the best and easiest way to reach them. Therefore, our main objective was to assess whether policitians received different treatment depending on their race, sexual orientation, age, or gender.   
 
