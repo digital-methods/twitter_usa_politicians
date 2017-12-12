@@ -19,5 +19,5 @@ XXXX Comment the matrix
 > ## Contingency Matrix - by age 
 <iframe src="https://documents.cortext.net/1c76/1c76c1ce2336ad26ca23a4757219cfa9/53436/contingency_matrix-usrep2-logFalse-ISItermsage_bigdatabase-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
 
-XXXX Comment the matrix
+The only strong obtainable result in this matrix is that young representatives tend to be insulted as “flake” and “hack”. The rest of the matrix shows no outstanding results. 
 
