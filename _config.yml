@@ -5,9 +5,13 @@ description: New description
 menu: [
 {'name': 'Overview', 'pagename': 'index'},
 {'name': 'Data and Methodology', 'pagename': 'page1'},
-{'name': 'Demographics', 'pagename': 'page2'},
-{'name': 'Network Analysis', 'pagename': 'page3'},
-{'name': 'Contingency Matrix', 'pagename': 'page4'},
-{'name': 'Topic Modeling', 'pagename': 'page5'},
-{'name': 'Conclusion', 'pagename': 'page6'},
+{'name': 'Gender', 'pagename': 'page2'},
+{'name': 'Age', 'pagename': 'page3'},
+{'name': 'Sexuality', 'pagename': 'page4'},
+{'name': 'Race', 'pagename': 'page5'},
+{'name': 'Topic Modeling', 'pagename': 'page6'},
+{'name': 'Demographics', 'pagename': 'page7'},
+{'name': 'Limitations. How to solve them?', 'pagename': 'page8'}
+{'name': 'Conclusion', 'pagename': 'page9'}
 ]
+
