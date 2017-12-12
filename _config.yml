@@ -1,6 +1,7 @@
 theme: jekyll-theme-tactile
 title: Twitter - public treatment of American politicians
 description: New description
+
 menu: [ 
 {'name': 'Overview', 'pagename': 'index'},
 {'name': 'Data and Methodology', 'pagename': 'page1'},
