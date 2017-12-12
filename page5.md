@@ -4,7 +4,7 @@
 
 XXXX Comment the map
 
-> ## Contingency Matrix - by ethnicity 
+## Contingency Matrix - by ethnicity 
 <iframe src="https://documents.cortext.net/fbca/fbcaeded6ac5e4423d90eb1d271f844e/53453/contingency_matrix-usrep2-logFalse-ISItermsethnicity_bigdatabase-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
 
 XXXX Comment the matrix
