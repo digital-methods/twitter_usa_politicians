@@ -1,12 +1,7 @@
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Twitter.jpg"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
 # Data and Methodology
-
-
-Here are yet other bullet points:
-- bullet1
-- bullet2
-- bullet3
+>In order to get our data we generated an API key to get all tweets published in between October 14th and October 28th. The sample included all US Democrat Party members in the House of Representatives. 
 
 
 ### Insults list
