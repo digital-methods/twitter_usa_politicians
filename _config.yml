@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-title: public treatment of American politicians on Twitter
+title: Public Treatment of American politicians on Twitter
 description: New description
 menu: [ 
 {'name': 'Overview', 'pagename': 'index'},
