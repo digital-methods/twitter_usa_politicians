@@ -9,7 +9,7 @@ The contingency matrix shows the degree of correlation between the pairs. The re
 > ## Contingency Matrix - by sexual orientation 
 <iframe src="https://documents.cortext.net/930d/930d443be49463b3061eb739e11fd907/53394/contingency_matrix-usrep2-logFalse-ISItermssexuality_big_database-sentpolarity_full_text-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
 
-XXXX Comment the matrix
+XXXX Comment the matrix The results based on sexual orientation are not as representative as the ones concerning the other characteristics, because our studied group only contained six openly non-heterosexual representatives, five of whom identified as homosexual and one bisexual. The rest of the representatives studied identify as straight. This lack of data is visible in this contingency matrix: the results are too poor to draw any analysis. 
 
 > ## Contingency Matrix - by ethnicity 
 <iframe src="https://documents.cortext.net/fbca/fbcaeded6ac5e4423d90eb1d271f844e/53453/contingency_matrix-usrep2-logFalse-ISItermsethnicity_bigdatabase-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
