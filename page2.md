@@ -1,14 +1,4 @@
-# Which representatives accounted for the most mentions in twitter?
-  
-<iframe src="https://documents.cortext.net/0cf2/0cf23b70382c05b07e2e3e14e1bd2b3b/48510/temporal%20evolution/basic_statistics_entities_user_mentions_20ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe> 
+## Network mapping: insults by gender 
+<iframe src="https://documents.cortext.net/2c39/2c39d54acc64899611925db8838536bb/53303/maps/hn-usrep26876_7218top150-ISItermsinsultsintweets-ISItermsgender-chi2cooc-99999-oT0.09-9999-louFalse.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
 
 
-# Which were the most repeated hashtags over those 2 weeks?
-
-<iframe src="https://documents.cortext.net/a112/a11239f5a529652d164d5d81f64e049d/48229/temporal%20evolution/basic_statistics_entities_hashtags_20ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
- 
-
-# Which were the most repeated hashtags over those 2 weeks?
-![network map]({{ site.url }}/twitter_usa_politicians/assets/images/hn-usrep26876-7218top150-htgs-entities-user-mentions-chi2cooc-99999-ot19-23-9999-loufalse.pdf)
-
->relate usernames with hashtag for the day based on what happened - approximate knowing we got data from 14-28 oct
