@@ -1,4 +1,3 @@
-# Demographics
 
 # Which representatives accounted for the most mentions in twitter?
   
