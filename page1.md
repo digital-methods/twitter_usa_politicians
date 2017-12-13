@@ -10,7 +10,11 @@ This dataset was analysed against the following variables:
 
 > Overall, the [democratic house of representatives](http://www.dems.gov/members/) has approximately 54 females, 145 males, 2 gays, 1 bisexual, 102 whites, 21 latinos/hispanics, 41 blacks and 8 Asian-Americans. The twitter accounts/identity/name for each house representative was another key identifier. The first step to this analysis was applying the API keys to the dataset in order to trace trends or patterns from the twitter feeds of the representatives’ twitter accounts. This was done for a period of two weeks from Sat October 14th 2017 to Sat October 28th 2017 for consistency and more accurate data given the ever changing and rapid turn of twitter events or tweets.
 
+> Classification of Democrats according to the pre-defined categories 
 ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.03.47.png) 
+
+> API Keys - How to do generate them?
+![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.11.49.png) 
 
 ## Insults list
 > A terms list of the possible insults was developed based on……………………
