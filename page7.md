@@ -10,6 +10,7 @@
  
 
 # Which were the most repeated hashtags over those 2 weeks?
-![network map]({{ site.url }}/twitter_usa_politicians/assets/images/hn-usrep26876-7218top150-htgs-entities-user-mentions-chi2cooc-99999-ot19-23-9999-loufalse.pdf)
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/e4737e695df6b02c83cc90d96f9603dd" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
 >relate usernames with hashtag for the day based on what happened - approximate knowing we got data from 14-28 oct
