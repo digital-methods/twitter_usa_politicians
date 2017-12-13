@@ -15,6 +15,6 @@
 > When conducting research on insults made in twitter comments, it is necessary to note Twitter's regulations regarding content allowed to be posted on its platform. Under "Abusive Behavior" within "The Twitter Rules", as it is most connected to the research we conduct here, it is stated that "in order to ensure that people feel safe expressing diverse opinions and beliefs, (Twitter) prohibit(s) behavior that crosses the line into abuse, including behavior that harasses, intimidates, or uses fear to silence another user’s voice." As listed, this includes violence, suicide or self-harm, child sexual exploitation, abuse, unwanted sexual advances, hateful conduct, or hateful imagery or display names. These restrictions by Twitter as a private company must be taken into account as we analyze the data so as to not make conclusions which are greater than Twitter's scope. The official page for Twitter's rules and policies can be found [here](https://help.twitter.com/en/rules-and-policies/twitter-rules).
 
 ## Trump and his use of twitter 
-### 6 politicians Trump targeted on twitter, The Washington Post (2017)
+### 6 politicians [Trump](https://www.youtube.com/watch?v=VyLIJNHv92U) targeted on twitter, The Washington Post (2017)
 
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=VyLIJNHv92U" frameborder="0" gesture="media" allowfullscreen></iframe>
