@@ -11,7 +11,7 @@
 
 >We were in need of a comparable sample of people that are viral enough on twitter to get enough data. We decided to work on the US-American House of representatives, because it has an adequate size of 435 representatives. However, we noticed, that  the representatives of the Republican party were in the vast majority older, white, straight men. Therefore decided to only work on the representatives from the democratic party, because they are more diverse. 
 
-## Twitter Regulations
+# Twitter Regulations
 > When conducting research on insults made in twitter comments, it is necessary to note Twitter's regulations regarding content allowed to be posted on its platform. Under "Abusive Behavior" within "The Twitter Rules", as it is most connected to the research we conduct here, it is stated that "in order to ensure that people feel safe expressing diverse opinions and beliefs, (Twitter) prohibit(s) behavior that crosses the line into abuse, including behavior that harasses, intimidates, or uses fear to silence another user’s voice." As listed, this includes violence, suicide or self-harm, child sexual exploitation, abuse, unwanted sexual advances, hateful conduct, or hateful imagery or display names. These restrictions by Twitter as a private company must be taken into account as we analyze the data so as to not make conclusions which are greater than Twitter's scope. The official page for Twitter's rules and policies can be found [here](https://help.twitter.com/en/rules-and-policies/twitter-rules).
 
 ## Trump and his use of twitter 
