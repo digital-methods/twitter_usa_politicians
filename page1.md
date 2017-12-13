@@ -17,7 +17,7 @@ This dataset was analysed against the following variables:
 ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.11.49.png) 
 
 ## Insults list
-> A terms list of possible insults was developed based on the knowledge of one of our group members who grew up in the United States as well as supplementary lists of compiled insults based upon race, gender, religion, and political party in the American context.
+> A terms list of possible insults was developed based on the personal knowledge of one of our group members who grew up in the United States as well as supplementary lists of compiled insults based upon race, gender, religion, and political party in the American context.
 
 
 
