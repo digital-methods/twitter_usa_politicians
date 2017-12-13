@@ -6,7 +6,7 @@ From this network map of insults characterized by ethnicity, we can see that mos
 
 Unsurprisingly as well, most insults based upon politics and political party are associated with the "White" node, such as "nazi", "crony", "alt-right", "alt-left", and "deep state" since whites are the racial majority in the democratic House of Representatives as well as government in general. Under the "Black" node, several of the words seem to be skewed more toward women, such as in "crazy", "whore", "cunt", and "loudmouth". Along with the large size of the "Black" node from the data we collected from these two weeks, this is surely due to the controversy surrounding Frederica Wilson at this time.
 
-One of the more interesting ties are between "Black" and the insult "racist", since in the American context, the word is most commonly used in expressing oppression of racial minorities. Thus, effective dissection of this part of the map could only be done by analyzing the content of those tweets themselves.
+One of the more interesting ties are between "Black" and the insult "racist" since, in the American context, the word is most commonly used in expressing oppression of racial minorities. Thus, effective dissection of this part of the map could only be done by analyzing the content of those tweets themselves.
 
 ## Contingency Matrix - by ethnicity 
 <iframe src="https://documents.cortext.net/fbca/fbcaeded6ac5e4423d90eb1d271f844e/53453/contingency_matrix-usrep2-logFalse-ISItermsethnicity_bigdatabase-ISItermsinsultsintweets-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
