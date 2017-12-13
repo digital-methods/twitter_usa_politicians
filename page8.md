@@ -3,6 +3,7 @@
 
 1. Reduce probability of tweets to be event based. Compare the sample with all representatives to this same sample but after removing from it Frederica Wilson and Nancy Pelosi, two women accounting for the majority of tweets in those two weeks.
 
+Ethnicity: Similar to the other categories, because much of the data pulled for these two weeks of Twitter insults are skewed due to current events, it would be necessary to pull out those actors in order to reach a more representative conclusion about what treatment democrat House of Representatives regularly receive on the platform. From the information we can interpret from the network mapping and contingency matrices as the insults lean heavily toward black and female, we can say with relative certainty that Frederica Wilson's controversy greatly influenced this, in both size and in content.
 
 ## Network mapping: Mixed category: ethnicity and gender - for all representatives 
 <iframe src="https://documents.cortext.net/4c53/4c537fb934399c4a078ee0e9cd3b5130/55612/maps/hn-usrep26876_7218top150-ISItermscross_race_gender_all-ISItermsinsultsintweets-chi2cooc-99999-oT2.28-9999-louFalse.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
