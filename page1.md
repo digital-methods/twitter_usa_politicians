@@ -12,8 +12,9 @@ This dataset was analysed against the following variables:
 
 
 ### Insults list
+> A terms list of the possible insults was developed based on……………………
 
-- This is a [link back to homepage](index.md)
-- This [one](page1) just directs you to the same page
-- And this [link](page2) just directs you to the same page
 
+
+
+> Various tools as will be illustrated in the following pages (Networking mapping, contingency mapping, topic modelling and demographics) were applied in order to gain a deeper and better understanding of the language used towards politicians on social media specifically on Twitter.
