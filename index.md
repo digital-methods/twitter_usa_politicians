@@ -1,7 +1,7 @@
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Twitter.jpg"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
 # Overview
-> Our project assesses public treatment of American politicians in social media (twitter). More specifically, we will focus on the Democrats within the US House of Representatives. Nowadays, there is not any single politician without a twitter account and most citizens see twitter as the best and easiest way to reach them. Therefore, our main objective was to assess whether policitians received different treatment depending on their race, sexual orientation, age, or gender.ÇkK   
+> Our project assesses public treatment of American politicians in social media (twitter). More specifically, we will focus on the Democrats within the US House of Representatives. Nowadays, there is not any single politician without a twitter account and most citizens see twitter as the best and easiest way to reach them. Therefore, our main objective was to assess whether policitians received different treatment depending on their race, sexual orientation, age, or gender.
 
 > ## Research Question: 
 > Is there a correlation between treatment of US-American politicians from the Democratic party in the House of Representatives and the characteristics of gender, sexuality, age and ethnicity?
@@ -14,4 +14,5 @@
 
 > ## Trump and his use of twitter 
 > ### 6 politicians Trump targeted on twitter, The Washington Post (2017)
+
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=VyLIJNHv92U" frameborder="0" gesture="media" allowfullscreen></iframe>
