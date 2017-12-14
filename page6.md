@@ -25,4 +25,4 @@
 
 > Frederica Wilson, the African American congresswoman from Florida has also faced the ire of the administration. On Oct. 19, White House chief of staff John Kelly called Wilson, 74, an “empty barrel.” He also accused her of having taken credit for getting funding for an FBI building in Florida during a 2015 speech—a false accusation, as video of Wilson’s speech shows. White House spokeswoman Sarah Sanders repeated the “empty barrel” phrase in a press conference; former Sheriff David Clarke, a spokesman for a pro-Trump political committee, called Wilson a “buffoon;” and Trump himself has called her “wacky” three times on Twitter.
 
-> [Home](index.md) - [Previous Page](page5.md) - [Next Page](page6.md)
+> [Home](index.md) - [Previous Page](page5.md) - [Next Page](page7.md)
