@@ -21,6 +21,6 @@ This dataset was analysed against the following variables:
 
 ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.21.01.png) 
 
-
-
 > Various tools as will be illustrated in the following pages (Networking mapping, contingency mapping, topic modelling and demographics) were applied in order to gain a deeper and better understanding of the language used towards politicians on social media specifically on Twitter.
+
+> [Home](index.md) - [Previous Page](page1.md) - [Next Page](page3.md)
