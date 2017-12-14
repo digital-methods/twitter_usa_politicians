@@ -10,3 +10,4 @@
 
 > The only strong obtainable result in this matrix is that young representatives tend to be insulted as “flake” and “hack”. The rest of the matrix shows no outstanding results. 
 
+> [Home](index.md) - [Previous Page](page2.md) - [Next Page](page4.md)
