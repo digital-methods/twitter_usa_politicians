@@ -13,8 +13,6 @@
 > 3. Myeshia Johnson
 > 4. Frederica Wilson
 > 5. Johnson & Trump
-> 6. XXX
-> 7. XXX
 
 
 ##  Why are those politicians and not others getting the most tweets?  
