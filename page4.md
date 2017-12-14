@@ -14,5 +14,6 @@
 
 > The results based on sexual orientation are not as representative as the ones concerning the other characteristics, because our studied group only contained six openly non-heterosexual representatives, five of whom identified as homosexual and one bisexual. The rest of the representatives studied identify as straight. This lack of data is visible in this contingency matrix: the results are too poor to draw any analysis. 
 
+> [Home](index.md) - [Previous Page](page3.md) - [Next Page](page5.md)
 
 
