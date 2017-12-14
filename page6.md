@@ -10,11 +10,11 @@
 
 ## Most relevant themes = politicians
 
-> 1. John Kelly
+> 1. [John Kelly](https://www.theatlantic.com/politics/archive/2017/10/trump-feud-myeshia-johnson/543684/)
 > 2. Donald Trump
-> 3. Myeshia Johnson
-> 4. Frederica Wilson
-> 5. Johnson & Trump
+> 3. [Myeshia Johnson](https://www.theatlantic.com/politics/archive/2017/10/trump-feud-myeshia-johnson/543684/)
+> 4. [Frederica Wilson](https://www.washingtontimes.com/news/2017/oct/21/donald-trump-frederica-wilson-killing-democrat-par/)
+> 5. [Johnson & Trump](http://edition.cnn.com/2017/10/25/politics/donald-trump-la-david-johnson-name/index.html)
 
 
 ##  Why are those politicians and not others getting the most tweets?  
@@ -24,5 +24,6 @@
 > The administration’s latest target is Myeshia Johnson, the pregnant widow of an army sergeant killed in Niger this month. After she appeared on Good Morning America this morning (Oct. 23) to confirm earlier reports that the president had seemed unsympathetic and forgotten her husband’s name during a condolence call, Trump quickly implied that she had been lying:
 
 > Frederica Wilson, the African American congresswoman from Florida has also faced the ire of the administration. On Oct. 19, White House chief of staff John Kelly called Wilson, 74, an “empty barrel.” He also accused her of having taken credit for getting funding for an FBI building in Florida during a 2015 speech—a false accusation, as video of Wilson’s speech shows. White House spokeswoman Sarah Sanders repeated the “empty barrel” phrase in a press conference; former Sheriff David Clarke, a spokesman for a pro-Trump political committee, called Wilson a “buffoon;” and Trump himself has called her “wacky” three times on Twitter.
+
 
 > [Home](index.md) - [Previous Page](page5.md) - [Next Page](page7.md)
