@@ -13,6 +13,9 @@ This dataset was analysed against the following variables:
 > Classification of Democrats according to the pre-defined categories 
 ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.03.47.png) 
 
+> <iframe src="https://docs.google.com/spreadsheets/d/1niYLImXUN2xhUhiGubLfHV2Hhvq_nGNYc9SlBiwQBCk/edit#gid=0" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
+
+
 > API Keys - How to do generate them?
 ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.11.49.png) 
 
@@ -20,6 +23,8 @@ This dataset was analysed against the following variables:
 > A terms list of possible insults was developed based on the personal knowledge of one of our group members who grew up in the United States as well as supplementary lists of compiled insults based upon race, gender, religion, and political party in the American context. However, we were met with a couple obstacles when attempting to expand this list. Firstly, because of the nature of this research project, insulting words added were largely focused on those that would be used by a younger population since, for the most part, they represent the majority of Twitter users. After exhausting these to the best of our abilities, any addition of insulting words would be more outdated and would not have changed results dramatically. Secondly, all lists of slurs associated with race, gender, religion, and political party were exhausted to our best efforts based upon the diversity that was present in democrat House of Representatives. Insulting words that could be used outside of the different races and religions present in the group were added as well to account for any mislabeling done by the public.
 
 ![network map]({{ site.url }}/twitter_usa_politicians/assets/images/Screen Shot 2017-12-13 at 11.21.01.png) 
+
+> <iframe src="https://docs.google.com/spreadsheets/d/1L6vhC8J_E9BJGV0hDTx1g1-h87_JIbEQLSCSu5KmOFw/edit#gid=0" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
 
 > Various tools as will be illustrated in the following pages (Networking mapping, contingency mapping, topic modelling and demographics) were applied in order to gain a deeper and better understanding of the language used towards politicians on social media specifically on Twitter.
 
