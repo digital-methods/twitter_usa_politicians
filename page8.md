@@ -24,6 +24,6 @@ Another way to look at this finding is by looking at the contingency matrix for 
 Instead of taking into account all politicians' tweets, and in order to reduce the bias we have encountered in our research, we thought of picking just 10-20 tweets per representative. This way, we will avoid skewed, biased results as we have shown for the case of Frederica Wilson. Consequently, our results will be much less sensitive to the events that took place in the periods studied. 
 
 > ## 3. First collect, then select 
-Collect all tweets for all representatives and then select those ones which are not event based. Applying this strategy, we will have a non-sensitive to events sample. Yet it will not be representative of what people are talking about on Twitter. Thus, we thought that our second strategy would  
+Collect all tweets for all representatives and then select those ones which are not event based. Applying this strategy, we will have a non-sensitive to events sample. Yet it will not be representative of what people are talking about on Twitter. Thus, we thought that our second strategy would be a much better approach to tackle the issue.
 
 > [Home](index.md) - [Previous Page](page7.md) - [Next Page](page9.md)
