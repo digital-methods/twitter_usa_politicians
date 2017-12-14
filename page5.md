@@ -14,3 +14,4 @@
 
 > This contingency matrix based upon insults by ethnicity shows that for the most part, largely between "Black" and "White", there is relative low correlation. The darkest red blocks are showing a stronger correlation with "White" being associated with "hack" and "flake" than with "Black". Surpringly, the insult "racist" is more closely associated with "Black" than with "White", with "White" having a very low correlation in general. However, as described above as well, this is surely due to Frederica Wilson's controversy at the time the data was pulled. This would also explain the stronger association of "whore", "pig", and "ugly", to "Black" than to "White" during this time, as they are feminized insults.
 
+> [Home](index.md) - [Previous Page](page4.md) - [Next Page](page6.md)
