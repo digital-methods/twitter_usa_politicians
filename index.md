@@ -1,12 +1,17 @@
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Twitter.jpg"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
-# Overview
-> Our project assesses public treatment of American politicians in social media (twitter). More specifically, we will focus on the Democrats within the US House of Representatives. Nowadays, there is not any single politician without a twitter account and most citizens see twitter as the best and easiest way to reach them. Therefore, our main objective was to assess whether policitians received different treatment depending on their race, sexual orientation, age, or gender. 
-
 # Research Question: 
 > Is there a correlation between treatment of US-American politicians from the Democratic party in the House of Representatives and the characteristics of gender, sexuality, age and ethnicity?
 
+# Overview
+> Our project assesses public treatment of American politicians in social media (twitter). We have chosen to work with twitter since we feel it is a better approximation of public sentiment as opposed to conventional internet articles and web blogs. The reason is that the amount of relevant data is much larger for twitter, as compared to traditional blogging sites.
+
+> More specifically, we will focus on the Democrats within the US House of Representatives. Nowadays, there is not any single politician without a twitter account and most citizens see twitter as the best and easiest way to reach them. Therefore, our main objective was to assess whether policitians received different treatment depending on their race, sexual orientation, age, or gender. 
+
+
 # Background 
+> Twitter is an online micro-blogging and social-networking platform which allows users to write short status updates of maximum length 140 characters. It is a rapidly expanding service with over 200 million registered users- out of which 100 million are active users and half of them log on twitter on a daily basis - generating nearly 250 million tweets per day.
+
 > The ostensible anonymity on the [internet](https://forward.com/shma-now/tochecha-rebuke/353506/the-dangers-of-anonymity-on-the-internet/) makes people be more openly rude, especially on social networks such as twitter.  We wondered if the fact that people hide behind aliases makes it more easy to spot biases in their treatment of people. In order to approach this thought, we decided on four possible fields of discrimination: gender, ethnicity, age, and sexual orientation.  
 
 >We were in need of a comparable sample of people that are viral enough on twitter to get enough data. We decided to work on the US-American House of representatives, because it has an adequate size of 435 representatives. However, we noticed, that  the representatives of the Republican party were in the vast majority older, white, straight men. Therefore decided to only work on the representatives from the democratic party, because they are more diverse. 
