@@ -16,7 +16,9 @@
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/e4737e695df6b02c83cc90d96f9603dd" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
-> As seen on Cortext’s Demography tool, the representative that accounted for the biggest number of mentions was Frederica Wilson, due to the events that happened within the timeframe of the collection of the data (from October 14th 2017 to October 28th 2017). 
+> The event based character of twitter exchanges is what shapes the number of mentions 
+
+As seen on Cortext’s Demography tool, the representative that accounted for the biggest number of mentions was Frederica Wilson, due to the events that happened within the timeframe of the collection of the data (from October 14th 2017 to October 28th 2017). 
 
 Adam Schiff and Nancy Pelosi also accounted for a large number of mentions during this period due to events that involved them. Donald Trump is constantly present throughout this two weeks of data collection, and so are other relevant political figures such as Hillary Clinton and media outlets such as CNN and Fox News. 
 
