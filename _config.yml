@@ -6,7 +6,7 @@ menu: [
 {'name': 'Data and Methodology', 'pagename': 'page1'},
 {'name': 'By Gender', 'pagename': 'page2'},
 {'name': 'By Age', 'pagename': 'page3'},
-{'name': 'By Sexuality', 'pagename': 'page4'},
+{'name': 'By Sexual Orientation', 'pagename': 'page4'},
 {'name': 'By Ethnicity', 'pagename': 'page5'},
 {'name': 'Topic Modeling', 'pagename': 'page6'},
 {'name': 'Demographics', 'pagename': 'page7'},
