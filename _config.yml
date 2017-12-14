@@ -11,5 +11,4 @@ menu: [
 {'name': 'Topic Modeling', 'pagename': 'page6'},
 {'name': 'Demographics', 'pagename': 'page7'},
 {'name': 'Limitations. How to solve them?', 'pagename': 'page8'},
-{'name': 'Conclusion', 'pagename': 'page9'}
 ]
