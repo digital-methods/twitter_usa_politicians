@@ -1,6 +1,7 @@
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Twitter.jpg"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
 # Data and Methodology
+
 > A dataset consisting of a sample of 199 US Democratic House of representatives was used for further analysis and understanding of the research question. 
 This dataset was analysed against the following variables: 
 - age
