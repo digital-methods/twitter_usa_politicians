@@ -1,3 +1,5 @@
+# Insults by Sexual orientation - Analysis 
+
 > ## A. Network mapping: insults by sexual orientation 
 
 <iframe src="https://documents.cortext.net/a1f1/a1f182f57d9837308532fd9dba3acc92/53323/maps/hn-usrep26876_6899top150-ISItermsadjective-ISItermssexualitysmaller-chi2cooc-99999-oT0.09-9999-louFalse.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
