@@ -18,4 +18,5 @@ Ethnicity and gender: Because much of the data pulled for these two weeks of Twi
 ## Contingency Matrix - without Frederica and Nancy
 <iframe src="https://documents.cortext.net/2283/228315ad88a29b2558135811c37843f7/55611/contingency_matrix-usrep2-logFalse-ISItermsinsultsintweets-ISItermsrace_gender_not_all-y6876_7218-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
 
-XXXX Comment the matrix
+
+> [Home](index.md) - [Previous Page](page7.md) - [Next Page](page9.md)
